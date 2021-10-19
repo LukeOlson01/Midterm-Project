@@ -1,7 +1,7 @@
 # About Me
 
 Pages:  
-[Introduction]()  
+[Introduction](Introduction.md)  
 [Schedule]()  
 [Hobbies]()  
 [Recent Digital Media Project]()  

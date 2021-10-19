@@ -8,4 +8,4 @@ I am taking these classes this semester:
 * Fundamentals of Network Technology
 * Finite Mathematics
 
-[<Previous]() [Next>]()
+[<Previous](Introduction.md) [Next>](Hobbies.md)

@@ -4,4 +4,4 @@ I am currently taking a digital media course. Here are some of the logos I have 
 ![Logo1](LukeOlson3b.png)
 ![Logo2](LukeOlson3c.png)
 
-[<Previous]() [Next>]()
+[<Previous](Hobbies.md) [Next>](RecentCodingProject.md)
